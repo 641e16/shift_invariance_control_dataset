@@ -156,6 +156,12 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.environment
+environment/
+
+# Data and Models
+.pth
+data/
 
 # Spyder project settings
 .spyderproject
